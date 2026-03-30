@@ -25,7 +25,7 @@ This is a simple web project that demonstrates a **login and registration system
 
 ```
 form-validation-js/
-│── index.html
+│── another.html
 │── styling.css
 │── scripting.js
 │── README.md
